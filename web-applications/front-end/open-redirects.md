@@ -12,10 +12,10 @@ An http parameter may contain a URL value and could cause the web application to
 ## Explanation
 
 ## CVSS
-[6.1](CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N)
+[6.1](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=(AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N))
 ## Impact Exploitability
-[Impact: 2.7](CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N)
-[Exploitability: 2.8](CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N)
+[Impact: 2.7](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=(AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N))
+[Exploitability: 2.8](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator?vector=(AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N))
 ## Detection
 
 ## Remediation(s)
